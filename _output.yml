@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">La sostenibilitat del sistema de mobilitat en Catalunya després de la Covid19</a></li>
+        <li><a href="./">Els impactes de la Covid-19 en la Mobilitat</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s

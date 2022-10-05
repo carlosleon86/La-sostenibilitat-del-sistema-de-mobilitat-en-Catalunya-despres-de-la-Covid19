@@ -1,5 +1,5 @@
 --- 
-title: "La sostenibilitat del sistema de mobilitat en Catalunya després de la Covid19"
+title: "Els impactes de la Covid-19 en la Mobilitat i les seves conseqüències socials i econòmiques: Una revisió acadèmica internacional després de 2 anys de pandèmia"
 author: "Daniel Albalate (Editor)"
 date: "Oct-2022"
 site: bookdown::bookdown_site
