@@ -1,5 +1,7 @@
 # Medi ambient en temps de la pandèmia
 
+###### Jordi Rosell *(Universitat de Girona)* {-}
+
 ## Introducció 
 
 En els darrers anys, ens hem acostumat a uns nivells elevats de contaminació a les nostres ciutats. Darrerament s’ha avançat molt en la comprensió dels efectes perjudicials de la contaminació atmosfèrica sobre la salut tant a curt com a llarg termini. El principal impacte de la contaminació de l’aire en la salut es produeix per l’exposició crònica i es tradueix en un augment de moltes malalties, així com de la mortalitat. Aquesta situació és realment preocupant donades les dificultats que tenen els poders públics per disminuir la concentració de bona part d’aquests contaminants a les nostres ciutats. Per exemple, si prenem com a referència els últims vint anys a l’estació que mesura la contaminació atmosfèrica a l’Eixample de Barcelona (il·lustració \@ref(fig:fig6c1)), ens adonem que la tendència per disminuir aquesta contaminació és molt lenta. Les crisis econòmiques tenen efectes positius sobre els nivells de contaminació, però, un cop s’acaben, són necessàries altres polítiques per disminuir aquests nivells de contaminació.

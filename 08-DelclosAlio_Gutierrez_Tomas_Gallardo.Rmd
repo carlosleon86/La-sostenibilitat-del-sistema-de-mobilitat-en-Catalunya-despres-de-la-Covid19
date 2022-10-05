@@ -1,5 +1,13 @@
 # La salut física i mental dels visitants durant la pandèmia de la COVID-19
 
+###### Xavier Delclòs-Alió *(Universitat Rovira i Virgili)* {-}
+###### Aaron Gutiérrez *(Universitat Rovira i Virgili)* {-}
+###### Josep Tomàs-Porres *(Universitat Rovira i Virgili)* {-}
+###### Oriol Gallardo *(Universitat Rovira i Virgili)* {-}
+###### Daniel Miravet *(Universitat Rovira i Virgili)* {-}
+###### Salvador Anton Clavé *(Universitat Rovira i Virgili)* {-}
+
+
 ## Introducció
 
 La pandèmia causada per la COVID-19 ha tingut un impacte indiscutible per al sector turístic (Gosling et al., [-@gossling2020pandemics]). Tant el turisme nacional com l'internacional han patit caigudes sense precedents durant l'any 2020 a causa de les restriccions per viatjar, implementades arreu del món. A més, la pandèmia ha afectat la presa de decisions d'aquells que viatgen (per exemple, si viatjar o no, escollir destinacions domèstiques o properes per davant de destinacions més llunyanes, evitar els espais més massificats de les destinacions o reduir la duració del viatge) (Peluso i Picherri, 2020). D'altra banda, les destinacions turístiques que han seguit operatives durant els primers compassos de la pandèmia han hagut d'implementar mesures per tal de prevenir el contagi de la COVID-19. Alguns exemples d'aquestes mesures són el tancament d'equipaments, la limitació d'ocupacions, el distanciament social o les mesures higièniques (Robina-Ramírez et al., [-@robina2021safety]). És probable que la implementació d'aquestes mesures tingui un impacte en l'experiència del turista durant les vacances. Malgrat l'efectivitat provada d'aquestes mesures en la limitació del contagi del nou coronavirus, és evident que la reducció de les activitats lúdiques ha contribuït a la reducció de l'activitat física (Douglas et al., [-@douglas2020mitigating]) i, en conseqüència, a un increment del risc de patir malalties cròniques (Chen et al., [-@chen2020coronavirus]). Així mateix, la pandèmia ha tingut un impacte negatiu en la salut mental en global (Xiong et al., [-@xiong2020impact]), especialment per l'anomenada fatiga pandèmica, com a conseqüència de les mesures impulsades pels governs, que van limitar la mobilitat de les persones i la interacció social amb l'objectiu d'evitar el contagi del virus (Patherick et al., [-@petherick2021worldwide]). Per aquest motiu, és rellevant explorar quins van ser els condicionants de la satisfacció envers les vacances durant els primers estadis de la pandèmia de la COVID-19.

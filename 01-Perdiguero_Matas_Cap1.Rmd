@@ -1,5 +1,10 @@
 # Transport públic: demanda, oferta i problemes de finançament
 
+###### Anna Matas *(Universitat Autònoma de Barcelona)*	{-}	
+###### Jordi Perdiguero *(Universitat Autònoma de Barcelona)*	{-}
+
+
+
 ## Introducció
 
 L'arribada de la COVID-19 i les restriccions de la mobilitat que va comportar han tingut un impacte molt significatiu sobre el transport públic. Aquest capítol fa un repàs de l'impacte de la pandèmia en la demanda i l'oferta de transport públic i, consegüentment, en la seva capacitat de finançament. L'anàlisi té en compte l'impacte durant els mesos en què la pandèmia ha estat activa, però també les possibles conseqüències a mitjà i llarg termini.

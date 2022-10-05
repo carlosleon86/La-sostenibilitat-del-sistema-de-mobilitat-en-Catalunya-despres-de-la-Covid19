@@ -1,5 +1,9 @@
 # Transport públic al Camp de Tarragona
 
+###### Daniel Miravet *(Universitat Rovira i Virgili)*	{-}	
+###### Aaron Gutiérrez *(Universitat Rovira i Virgili)*	{-}	
+###### Xavier Delclòs-Alió *(Universitat Rovira i Virgili)*	{-}	
+
 ## Introducció
 
 Quan s’analitzen les múltiples afectacions que ha patit la vida quotidiana de les persones com a conseqüència de la pandèmia de la COVID-19, més enllà òbviament d’aquelles relacionades amb la salut i el proveïment de serveis i materials sanitaris, entre els àmbits més afectats trobem la mobilitat. Les afectacions causades pel virus sobre la mobilitat han estat determinades per dos elements fonamentals. En primer lloc, aquelles derivades de les restriccions mateixes a la mobilitat i a les activitats personals generadores de desplaçaments, introduïdes pels poders públics per tal de tallar les cadenes de contagi, tot alternant períodes de més o menys obertura segons la incidència de la malaltia i el nivell de saturació dels hospitals (Hale et al.,[-@hale2021government]; Askitas et al.,[-@askitas2021estimating]). Les limitacions que van afectar directament la mobilitat van suposar prohibicions segons les franges horàries, els àmbits geogràfics o el nombre de persones que es desplaçaven juntes, i, en paral·lel, es van establir limitacions, i fins i tot prohibicions, d’activitats com ara l’oci nocturn o la restauració. En segon lloc, la por de contraure la malaltia va tenir un paper clau a l’hora de disminuir els desplaçaments de les persones (Vich et al., [-@vich2022presence]). La por va suposar un fre per a la mobilitat de molta gent, i no va afectar tots els segments de població de manera homogènia, sobretot per la percepció del risc de les conseqüències que es podien derivar de contraure la COVID-19, que eren superiors entre els grups de més edat i els col·lectius immunodeprimits (Nino et al., [-@nino2021race]).

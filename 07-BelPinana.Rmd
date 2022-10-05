@@ -1,5 +1,7 @@
 # Mobilitat i desigualtat: impactes distributius dels efectes de la pandèmia
 
+###### Paula Bel *(Universitat Abat Oliva)* {-}
+
 ## Introducció 
 
 El 30 de gener de 2020 l’Organització Mundial de la Salut (OMS) publicava les primeres dades oficials de morts per la COVID-19 i es confirmaven els primers 7.818 casos, principalment localitzats a la Xina (WHO, [-@Who2020]). En poc temps, el virus es va anar expandint i transportant a altres països i continents i poques setmanes després, l’11 de març de 2020, l’OMS determinava la COVID-19 com una pandèmia mundial (WHO, 2020b [-@Whob2020]). L’expansió global del virus i la velocitat a la qual es propagava va fer reaccionar governs i autoritats sanitàries de tot el món. Per tal de reduir la propagació de la COVID-19, els governs van aplicar mesures de confinament i distanciament social, les quals van alterar la vida diària de la població i la participació presencial en les activitats (De Vos, [-@De2020]; Mouratidis i Papagiannakis, [-@Mouratidis2021]). Molts  països van clausurar els centres educatius i van tancar fronteres, també es van cancel·lar els esdeveniments públics i es van prohibir les activitats socials. Els desplaçaments únicament estaven autoritzats per als treballadors de serveis essencials o per causes degudament justificades. En algunes ciutats també es van aplicar mesures en el transport públic, com ara la prohibició de la venda directa de bitllets per part dels conductors o la limitació de la capacitat de passatgers (Lozzi et al., [-@Lozzi2020]). 

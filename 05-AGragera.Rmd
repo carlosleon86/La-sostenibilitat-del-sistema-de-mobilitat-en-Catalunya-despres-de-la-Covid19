@@ -1,5 +1,7 @@
 # Teletreball, mobilitat i geografia dels mercats de treball i habitatge
 
+###### Albert Gragera *(Universitat Autònoma de Barcelona)* {-}
+
 ## Introducció
 
 El sever impacte de la COVID-19 i les mesures de distanciament social introduïdes per contrarestar-la han fomentat l’adopció del teletreball sense precedents. Això ha comportat una reducció de la mobilitat i reduccions importants dels nivells de contaminació en els moments més àlgids de la pandèmia, però també ha incrementat les desigualtats entre els treballadors amb menys ingressos i posicions no compatibles amb el teletreball (Mongey et al., [-@Mongey2021]; Reuschke i Felstead, [-@Reuschke2020]), que ha concentrat en els barris menys avantatjats els acomiadaments derivats dels confinaments, nivells més alts d’exposició a la infecció i les disrupcions en els serveis de transport públic.

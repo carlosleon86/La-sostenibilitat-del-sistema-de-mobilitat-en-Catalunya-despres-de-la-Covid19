@@ -1,5 +1,9 @@
 # Canvis en els patrons de mobilitat quotidiana a Catalunya durant la pandèmia de la COVID-19.
 
+###### Verónica Mejía *(Universitat Rovira i Virgili)* {-}
+###### Aarón Gutiérrez *(Universitat Rovira i Virgili)* {-}
+###### Xavier Delclòs-Alió *(Universitat Rovira i Virgili)* {-}
+
 ## Introducció
 
 L'any 2020 la COVID-19 va adquirir una escala global i va alterar les dinàmiques de la vida quotidiana de la població arreu del planeta. Les repercussions sobre la societat van ser de caire divers, i es van traduir en crisis de caràcter sanitari, econòmic i social.

@@ -1,4 +1,8 @@
 # Transport privat en temps de COVID
+
+###### Xavier Fageda *(Universitat de Barcelona)* {-}
+###### Carlos León-Gómez *(Universitat de Barcelona)* {-}
+
 ## Introducció 
 
 La pandèmia originada per la COVID-19 ha tingut un impacte molt important en la mobilitat per les restriccions imposades pels governs, per la por al contagi i per l’extensió del teletreball. Aquesta caiguda de la mobilitat va ser molt forta per a tots els modes de transport l’any 2020, particularment a la primavera, que coincideix amb el confinament estricte derivat de la primera onada de la pandèmia. Tanmateix, l’evolució del trànsit el 2021 ha sigut més heterogènia segons el context geogràfic i el mode de transport analitzats. I més incerta és l’evolució que s’espera que tindrà la mobilitat en el període de la postpandèmia. 
