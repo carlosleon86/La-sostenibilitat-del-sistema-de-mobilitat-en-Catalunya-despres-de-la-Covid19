@@ -20,136 +20,179 @@ knitr::include_graphics("fig_por_cap/Cap.8/fig1.png")
 
 L'enquesta inclou aspectes com ara les característiques dels visitants, les característiques del viatge i la seva visita, i preguntes relacionades amb les activitats que han dut a terme durant l'estada a la destinació, així com la manera com han percebut l'impacte de la COVID-19 en les seves vides, en la seva salut mental i en la seva visita. Els participants que ho van voler van signar un formulari de consentiment informat abans de respondre l'enquesta. La taula 1 reflecteix les característiques de la mostra. Les persones incloses eren majoritàriament dones (53 %), amb una edat mitjana de 49,7 anys. El nivell d'estudis més comú entre els enquestats és estudis secundaris (38 %), seguit d'estudis primaris (32 %) i estudis superiors (23 %). Entre altres característiques individuals i relacionades amb la visita, destaca que els visitants eren majoritàriament espanyols (80 %), passaven una mitjana de quinze nits a la Costa Daurada i s'allotjaven principalment en segones residències, apartaments o residències d'amics o familiars (aproximadament el 60 % del total). A més, la majoria dels visitants no visitaven la destinació per primera vegada (77 %). Aquests resultats extrets de l'anàlisi de la mostra suggereixen que els visitants espanyols i de proximitat van ser més habituals que en circumstàncies normals, tal com indiquen els resultats obtinguts en estudis anteriors basats en enquestes de visitants similars fetes a l'àrea d'estudi (Gutiérrez i Miravet, [-@gutierrez2016determinants]).
 
-```{=html}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
 </style>
-```
-+---------------------------------------------------+
-| Taula 1. Descripció de la mostra                  |
-+===================================================+
-|    \                                              |
-| Total   de la mostra (n, %)                       |
-+---------------------------------------------------+
-|    \                                              |
-| Característiques   individuals                    |
-+---------------------------------------------------+
-|    \                                              |
-| Gènere (n, %)                                     |
-+---------------------------------------------------+
-|    \                                              |
-| Femení                                            |
-+---------------------------------------------------+
-|    \                                              |
-| Masculí                                           |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
-|    \                                              |
-| Edat (mitjana, SD)                                |
-+---------------------------------------------------+
-|    \                                              |
-| Nivell d\'estudis (n, %)                          |
-+---------------------------------------------------+
-|    \                                              |
-| Educació primària                                 |
-+---------------------------------------------------+
-|    \                                              |
-| Educació secundària                               |
-+---------------------------------------------------+
-|    \                                              |
-| Educació superior                                 |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
-|    \                                              |
-| Nacionalitat (n, %)                               |
-+---------------------------------------------------+
-|    \                                              |
-| Espanyola                                         |
-+---------------------------------------------------+
-|    \                                              |
-| Altres                                            |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
-|    \                                              |
-| Característiques   de la visita                   |
-+---------------------------------------------------+
-|    \                                              |
-| Nombre de nits (mitjana, SD)                      |
-+---------------------------------------------------+
-|    \                                              |
-| Despesa (milers d\'euros) (mitjana,   SD)         |
-+---------------------------------------------------+
-|    \                                              |
-| Primera vegada que visita la destinació (n, %)    |
-+---------------------------------------------------+
-|    \                                              |
-| Sí                                                |
-+---------------------------------------------------+
-|    \                                              |
-| No                                                |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
-|    \                                              |
-| Tipus d\'allotjament (n, %)                       |
-+---------------------------------------------------+
-|    \                                              |
-| Segona residència                                 |
-+---------------------------------------------------+
-|    \                                              |
-| Apartament                                        |
-+---------------------------------------------------+
-|    \                                              |
-| Residència d\'un familiar o un amic               |
-+---------------------------------------------------+
-|    \                                              |
-| Hotel de 3 o menys estrelles                      |
-+---------------------------------------------------+
-|    \                                              |
-| Hotel de 4 o menys estrelles                      |
-+---------------------------------------------------+
-|    \                                              |
-| Altres                                            |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
-|    \                                              |
-| Acompanyants durant el viatge (n, %)              |
-+---------------------------------------------------+
-|    \                                              |
-| Pel seu compte                                    |
-+---------------------------------------------------+
-|    \                                              |
-| En parella                                        |
-+---------------------------------------------------+
-|    \                                              |
-| Família amb infants                               |
-+---------------------------------------------------+
-|    \                                              |
-| Amb altres familiars                              |
-+---------------------------------------------------+
-|    \                                              |
-| Amb amics                                         |
-+---------------------------------------------------+
-|    \                                              |
-| s. d.                                             |
-+---------------------------------------------------+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt" colspan="2">Taula 1. Descripció de la&nbsp;&nbsp;&nbsp;mostra</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr">Total de la mostra (n, %)</td>
+    <td class="tg-c3ow">241 (100)</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Característiques individuals</td>
+    <td class="tg-fymr"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Gènere&nbsp;&nbsp;&nbsp;(n, %)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Femení</td>
+    <td class="tg-c3ow">128 (53,11)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Masculí</td>
+    <td class="tg-c3ow">97 (40,25)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s.&nbsp;&nbsp;&nbsp;d.</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Edat&nbsp;&nbsp;&nbsp;(mitjana, SD)</td>
+    <td class="tg-c3ow">49,74 (17,53)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nivell&nbsp;&nbsp;&nbsp;d’estudis (n, %)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Educació primària</td>
+    <td class="tg-c3ow">76 (31,54)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Educació&nbsp;&nbsp;&nbsp;secundària</td>
+    <td class="tg-c3ow">91 (37,76)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Educació&nbsp;&nbsp;&nbsp;superior</td>
+    <td class="tg-c3ow">56 (23,24)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s.&nbsp;&nbsp;&nbsp;d.</td>
+    <td class="tg-c3ow">18 (7,47)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nacionalitat&nbsp;&nbsp;&nbsp;(n, %)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Espanyola</td>
+    <td class="tg-c3ow">194 (80,5)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Altres</td>
+    <td class="tg-c3ow">31 (12,86)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s. d.</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Característiques de la visita</td>
+    <td class="tg-fymr"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nombre&nbsp;&nbsp;&nbsp;de nits (mitjana, SD)</td>
+    <td class="tg-c3ow">14,63 (23,18)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Despesa&nbsp;&nbsp;&nbsp;(milers d’euros) (mitjana, SD)</td>
+    <td class="tg-c3ow">0,46 (0,59)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Primera&nbsp;&nbsp;&nbsp;vegada que visita la destinació (n, %)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Sí</td>
+    <td class="tg-c3ow">39 (16,18)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">No</td>
+    <td class="tg-c3ow">186 (77,18)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s.&nbsp;&nbsp;&nbsp;d.</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tipus&nbsp;&nbsp;&nbsp;d’allotjament (n, %)</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Segona residència</td>
+    <td class="tg-c3ow">75 (31,12)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Apartament</td>
+    <td class="tg-c3ow">39 (16,18)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Residència d’un&nbsp;&nbsp;&nbsp;familiar o un amic</td>
+    <td class="tg-c3ow">22 (9,13)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Hotel&nbsp;&nbsp;&nbsp;de 3 o menys estrelles</td>
+    <td class="tg-c3ow">23 (9,54)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Hotel&nbsp;&nbsp;&nbsp;de 4 o menys estrelles</td>
+    <td class="tg-c3ow">48 (19,92)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Altres</td>
+    <td class="tg-c3ow">18 (7,47)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s.&nbsp;&nbsp;&nbsp;d.</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Acompanyants&nbsp;&nbsp;&nbsp;durant el viatge (n, %)</td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Pel&nbsp;&nbsp;&nbsp;seu compte</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">En&nbsp;&nbsp;&nbsp;parella</td>
+    <td class="tg-c3ow">90 (37,34)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Família amb infants</td>
+    <td class="tg-c3ow">76 (31,53)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Amb&nbsp;&nbsp;&nbsp;altres familiars</td>
+    <td class="tg-c3ow">28 (11,62)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">Amb&nbsp;&nbsp;&nbsp;amics</td>
+    <td class="tg-c3ow">15 (6,22)</td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv">s. d.</td>
+    <td class="tg-c3ow">16 (6,64)</td>
+  </tr>
+</tbody>
+</table>
 
 L'anàlisi s'ha estructurat en una sèrie de passos. En primer lloc, s'ha quantificat l'impacte percebut de la COVID-19 en les caminades recreatives comparat amb unes vacances sense pandèmia. En segon lloc, s'han analitzat les respostes obtingudes a l'enquesta per tal de conèixer els nivells de satisfacció envers les vacances, l'impacte percebut de la pandèmia en el benestar i la salut mental, així com l'impacte de la pandèmia en la visita. Per tal d'entendre quins factors de la visita estaven relacionats amb els nivells de les caminades recreatives, per una banda, i amb el seu grau de satisfacció amb les vacances, per l'altra, s'ha optat per fer servir lògits ordenats. L'ús d'aquests models estadístics es basa en la naturalesa de les variables dependents, que consisteixen en diferents nivells d'activitat respecte a les caminades recreatives (nivells d'activitat més baixos, similars o més elevats), i una escala de Likert, que comprèn de l'1 (molt baixa) al 5 (excel·lent), per mesurar la satisfacció envers les vacances. Pel que fa al model sobre les caminades recreatives, s'han inclòs un conjunt de característiques personals (gènere, nacionalitat, edat, educació i ocupació) i un conjunt de característiques sobre la visita (nombre de nits, despesa, mitjà de transport utilitzat per arribar a la destinació, si era o no la primera vegada que visitaven la destinació, el tipus d'allotjament, els acompanyants durant el viatge, si visitaven els serveis locals o passejaven per la destinació, la seva satisfacció global envers la destinació i la seva percepció respecte a la massificació del turisme). També s'hi han inclòs un conjunt d'indicadors clau sobre com havien percebut l'impacte de la COVID-19 durant la visita. S'ha examinat el risc percebut de l'impacte de la COVID-19 en viatges realitzats fora de la destinació, la seva percepció de seguretat respecte de contraure la COVID-19 mentre caminaven i mentre viatjaven tant dins com fora de la destinació, i la seva valoració respecte a les mesures de prevenció de la COVID-19 trobades a la destinació. Pel que fa al model relatiu a la satisfacció del turista durant les vacances, també s'han inclòs característiques individuals, característiques de la visita que podrien estar relacionades amb la satisfacció respecte a la visita i un conjunt de factors relacionats amb la salut mental com ara l'impacte percebut de la COVID-19 en la seva satisfacció vital, en la salut mental i aspectes com el cansament, la tristesa, l'estat d'ànim, el nivell de preocupació general i l'impacte en les seves relacions socials i familiars. Aquestes preguntes tenien tres opcions: impacte negatiu, sense impacte i impacte positiu. També s'hi ha inclòs una pregunta respecte de l'impacte de la COVID-19 en les activitats físiques dutes a terme durant la visita (per exemple, caminar i nedar; i s'ha fet ús d'una escala de Likert, de l'1 [molt menys] al 7 [molt més]). Finalment, s'hi ha inclòs una pregunta sobre com els visitants valoraven les mesures de prevenció de la COVID-19 que es trobaven a la destinació. Aquesta valoració s'ha fet, de nou, amb una escala de Likert, de l'1 (molt dolenta) al 5 (excel·lent).
 
