@@ -1,8 +1,10 @@
 # Canvis en els patrons de mobilitat a Catalunya durant la COVID-19: Evidències de les àrees metropolitanes de Barcelona, Girona i Tarragona
 
-###### Verónica Mejía *(Universitat Rovira i Virgili)* {-}
-###### Aarón Gutiérrez *(Universitat Rovira i Virgili)* {-}
-###### Xavier Delclòs-Alió *(Universitat Rovira i Virgili)* {-}
+###### Verónica Mejía *(Universitat Rovira i Virgili)* {.unnumbered}
+
+###### Aarón Gutiérrez *(Universitat Rovira i Virgili)* {.unnumbered}
+
+###### Xavier Delclòs-Alió *(Universitat Rovira i Virgili)* {.unnumbered}
 
 ## Introducció
 
@@ -59,12 +61,12 @@ El disseny de la mostra i l'establiment dels criteris de substitució de les uni
     <td class="tg-fe66">2.039</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Resta de l’àmbit metropolità&nbsp;&nbsp;&nbsp;de Barcelona </td>
+    <td class="tg-1wig">Resta de l’àmbit metropolità de Barcelona </td>
     <td class="tg-baqh">1.405.715</td>
     <td class="tg-baqh">1.942</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Àrea central del Camp&nbsp;&nbsp;&nbsp;de Tarragona</td>
+    <td class="tg-sda9">Àrea central del Camp de Tarragona</td>
     <td class="tg-fe66">405.948</td>
     <td class="tg-fe66">1.423</td>
   </tr>
@@ -74,7 +76,7 @@ El disseny de la mostra i l'establiment dels criteris de substitució de les uni
     <td class="tg-baqh">606</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">Font: elaboració pròpia a partir de dades provinents de l’enquesta&nbsp;&nbsp;&nbsp;del projecte «La sostenibilitat financera i ambiental del sistema de&nbsp;&nbsp;&nbsp;mobilitat en les grans àrees urbanes de Catalunya després de la COVID-19»&nbsp;&nbsp;&nbsp;(2020PANDE00058).</td>
+    <td class="tg-0lax" colspan="3">Font:&nbsp;&nbsp;&nbsp;elaboració pròpia a partir de dades provinents de l’enquesta del projecte «La&nbsp;&nbsp;&nbsp;sostenibilitat financera i ambiental del sistema de mobilitat en les grans&nbsp;&nbsp;&nbsp;àrees urbanes de Catalunya després de la COVID-19» (2020PANDE00058).</td>
   </tr>
 </tbody>
 </table>
@@ -100,10 +102,11 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ve69{background-color:#F2F2F2;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-s82f{background-color:#F2F2F2;color:#4A4A4A;text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-sda9{background-color:#F2F2F2;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-fe66{background-color:#F2F2F2;text-align:center;vertical-align:top}
 .tg .tg-rbyq{color:#4A4A4A;text-align:center;vertical-align:top}
@@ -111,7 +114,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm" colspan="6">Taula 2.2. Estadístics descriptius de les principals variables&nbsp;&nbsp;&nbsp;sociodemogràfiques de l’enquesta</th>
+    <th class="tg-1wig" colspan="6">Taula 2.2. Estadístics descriptius de les principals variables&nbsp;&nbsp;&nbsp;sociodemogràfiques de l’enquesta</th>
   </tr>
 </thead>
 <tbody>
@@ -121,7 +124,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-amwm">Barcelona</td>
     <td class="tg-amwm">Resta&nbsp;&nbsp;&nbsp;AMB</td>
     <td class="tg-amwm">C.&nbsp;&nbsp;&nbsp;Tarragona</td>
-    <td class="tg-amwm">AM&nbsp;&nbsp;&nbsp;Girona</td>
+    <td class="tg-amwm">AM Girona</td>
   </tr>
   <tr>
     <td class="tg-sda9">Dones</td>
@@ -156,7 +159,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-rbyq">17,3 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Inferiors a&nbsp;&nbsp;&nbsp;1.000 €</td>
+    <td class="tg-sda9">Inferiors a 1.000 €</td>
     <td class="tg-fe66">6,0 %</td>
     <td class="tg-fe66">5,5 %</td>
     <td class="tg-fe66">6,3 %</td>
@@ -172,7 +175,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">20,8 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Entre 2.000 € i&nbsp;&nbsp;&nbsp;3.000 €</td>
+    <td class="tg-sda9">Entre 2.000 € i 3.000 €</td>
     <td class="tg-fe66">19,8 %</td>
     <td class="tg-fe66">20,3 %</td>
     <td class="tg-fe66">19,7 %</td>
@@ -188,7 +191,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">12,1 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Entre 4.000 € i&nbsp;&nbsp;&nbsp;5.000 €</td>
+    <td class="tg-sda9">Entre 4.000 € i 5.000 €</td>
     <td class="tg-fe66">5,3 %</td>
     <td class="tg-fe66">6,2 %</td>
     <td class="tg-fe66">4,5 %</td>
@@ -204,15 +207,15 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">7,3 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Treballa per compte&nbsp;&nbsp;&nbsp;d’altri</td>
-    <td class="tg-fe66">46,7 %</td>
+    <td class="tg-sda9">Treballa per compte d’altri</td>
+    <td class="tg-fe66">46,7&nbsp;&nbsp;&nbsp;%</td>
     <td class="tg-fe66">45,2 %</td>
     <td class="tg-fe66">48,9 %</td>
     <td class="tg-fe66">47,6 %</td>
     <td class="tg-fe66">40,2 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Jubilació, prejubilació o&nbsp;&nbsp;&nbsp;pensió / incapacitació lab. </td>
+    <td class="tg-1wig">Jubilació, prejubilació o pensió / incapacitació lab. </td>
     <td class="tg-baqh">29,7 %</td>
     <td class="tg-baqh">29,5 %</td>
     <td class="tg-baqh">29,8 %</td>
@@ -220,7 +223,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">38,3 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Atur (inclou ERO total)&nbsp;&nbsp;&nbsp;/ busca feina</td>
+    <td class="tg-sda9">Atur (inclou ERO total) / busca feina</td>
     <td class="tg-fe66">8,4 %</td>
     <td class="tg-fe66">8,9 %</td>
     <td class="tg-fe66">7,6 %</td>
@@ -228,7 +231,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">7,0 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Tasques de la llar fora de la&nbsp;&nbsp;&nbsp;pròpia llar</td>
+    <td class="tg-1wig">Tasques de la llar fora de la pròpia llar</td>
     <td class="tg-baqh">0,3 %</td>
     <td class="tg-baqh">0,2 %</td>
     <td class="tg-baqh">0,5 %</td>
@@ -236,7 +239,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">0,6 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Tasques a la pròpia&nbsp;&nbsp;&nbsp;llar</td>
+    <td class="tg-sda9">Tasques a la pròpia llar</td>
     <td class="tg-fe66">2,2 %</td>
     <td class="tg-fe66">1,9 %</td>
     <td class="tg-fe66">2,4 %</td>
@@ -268,7 +271,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">0,4 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Mateixa&nbsp;&nbsp;&nbsp;feina que abans</td>
+    <td class="tg-sda9">Mateixa feina que abans</td>
     <td class="tg-fe66">89,3 %</td>
     <td class="tg-fe66">88,2 %</td>
     <td class="tg-fe66">89,8 %</td>
@@ -276,7 +279,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">93,6 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ha&nbsp;&nbsp;&nbsp;perdut la feina / ERTO</td>
+    <td class="tg-1wig">Ha perdut la feina / ERTO</td>
     <td class="tg-baqh">4,5 %</td>
     <td class="tg-baqh">5,1 %</td>
     <td class="tg-baqh">4 %</td>
@@ -284,7 +287,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">3 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Ha&nbsp;&nbsp;&nbsp;canviat de feina</td>
+    <td class="tg-sda9">Ha canviat de feina</td>
     <td class="tg-fe66">4,4 %</td>
     <td class="tg-fe66">4,8 %</td>
     <td class="tg-fe66">4,5 %</td>
@@ -292,7 +295,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">1,8 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Altres&nbsp;&nbsp;&nbsp;situacions</td>
+    <td class="tg-1wig">Altres situacions</td>
     <td class="tg-baqh">1,80 %</td>
     <td class="tg-baqh">1,90 %</td>
     <td class="tg-baqh">1,70 %</td>
@@ -300,7 +303,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">1,60 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Només treball&nbsp;&nbsp;&nbsp;presencial</td>
+    <td class="tg-sda9">Només treball presencial</td>
     <td class="tg-fe66">57,9 %</td>
     <td class="tg-fe66">48,3 %</td>
     <td class="tg-fe66">64,0 %</td>
@@ -308,7 +311,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">69,9 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Més treball presencial que&nbsp;&nbsp;&nbsp;teletreball</td>
+    <td class="tg-1wig">Més treball presencial que teletreball</td>
     <td class="tg-baqh">13,0 %</td>
     <td class="tg-baqh">14,3 %</td>
     <td class="tg-baqh">11,7 %</td>
@@ -316,7 +319,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">11,7 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Mateix treball&nbsp;&nbsp;&nbsp;presencial i teletreball</td>
+    <td class="tg-ve69">Mateix treball presencial i teletreball</td>
     <td class="tg-fe66">7,3 %</td>
     <td class="tg-fe66">8,2 %</td>
     <td class="tg-fe66">7,0 %</td>
@@ -324,7 +327,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">5,2 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Més teletreball que&nbsp;&nbsp;&nbsp;presencial</td>
+    <td class="tg-1wig">Més teletreball que presencial</td>
     <td class="tg-baqh">9,9 %</td>
     <td class="tg-baqh">14,4 %</td>
     <td class="tg-baqh">6,8 %</td>
@@ -340,7 +343,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">2,8 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Va teletreballar però ha&nbsp;&nbsp;&nbsp;deixat de fer-ho</td>
+    <td class="tg-1wig">Va teletreballar però ha deixat de fer-ho</td>
     <td class="tg-baqh">4,0 %</td>
     <td class="tg-baqh">3,8 %</td>
     <td class="tg-baqh">4,1 %</td>
@@ -356,7 +359,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">0,0 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">No&nbsp;&nbsp;&nbsp;ho sap / No contesta</td>
+    <td class="tg-1wig">No ho sap / No contesta</td>
     <td class="tg-baqh">1,0 %</td>
     <td class="tg-baqh">1,1 %</td>
     <td class="tg-baqh">1,0 %</td>
@@ -364,7 +367,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">0,0 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Disponibilitat de&nbsp;&nbsp;&nbsp;vehicle</td>
+    <td class="tg-sda9">Disponibilitat de vehicle</td>
     <td class="tg-fe66">82,1 %</td>
     <td class="tg-fe66">67,9 %</td>
     <td class="tg-fe66">84,4 %</td>
@@ -372,7 +375,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">92,7 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">No disposa de permís de&nbsp;&nbsp;&nbsp;conduir</td>
+    <td class="tg-1wig">No disposa de permís de conduir</td>
     <td class="tg-baqh">25,5 %</td>
     <td class="tg-baqh">30,5 %</td>
     <td class="tg-baqh">23,5 %</td>
@@ -380,7 +383,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">17,1 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Dist. despl. feina /&nbsp;&nbsp;&nbsp;estudis: &lt; 5 km</td>
+    <td class="tg-sda9">Dist. despl. feina / estudis: &lt; 5 km</td>
     <td class="tg-fe66">32,6 %</td>
     <td class="tg-fe66">38,6 %</td>
     <td class="tg-fe66">26,9 %</td>
@@ -388,7 +391,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">37,5 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Dist. despl. feina / estudis:&nbsp;&nbsp;&nbsp;&gt; 5 km i &gt; 20 km</td>
+    <td class="tg-1wig">Dist. despl. feina / estudis: &gt; 5 km i &gt;&nbsp;&nbsp;&nbsp;20 km</td>
     <td class="tg-baqh">36,0 %</td>
     <td class="tg-baqh">31,2 %</td>
     <td class="tg-baqh">40,4 %</td>
@@ -396,7 +399,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">30,4 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Dist. despl. feina /&nbsp;&nbsp;&nbsp;estudis: &gt; 20 km</td>
+    <td class="tg-sda9">Dist. despl. feina / estudis: &gt; 20 km</td>
     <td class="tg-fe66">19,1 %</td>
     <td class="tg-fe66">15,1 %</td>
     <td class="tg-fe66">21,4 %</td>
@@ -404,7 +407,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">23,5 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Dist. despl. feina / estudis:&nbsp;&nbsp;&nbsp;només teletreballa</td>
+    <td class="tg-1wig">Dist. despl. feina / estudis: només teletreballa</td>
     <td class="tg-baqh">2,8 %</td>
     <td class="tg-baqh">4,5 %</td>
     <td class="tg-baqh">1,7 %</td>
@@ -412,7 +415,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">1,1 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">No sabria dir la&nbsp;&nbsp;&nbsp;distància</td>
+    <td class="tg-sda9">No sabria dir la distància</td>
     <td class="tg-fe66">6,9 %</td>
     <td class="tg-fe66">7,6 %</td>
     <td class="tg-fe66">7,3 %</td>
@@ -420,7 +423,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">5,5 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Dist. despl. feina / estudis:&nbsp;&nbsp;&nbsp;no contesta</td>
+    <td class="tg-1wig">Dist. despl. feina / estudis: no contesta</td>
     <td class="tg-baqh">2,5 %</td>
     <td class="tg-baqh">3,0 %</td>
     <td class="tg-baqh">2,3 %</td>
@@ -428,7 +431,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">2,1 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Despl. feina / estudis:&nbsp;&nbsp;&nbsp;fins a 15 minuts</td>
+    <td class="tg-sda9">Despl. feina / estudis: fins a 15 minuts</td>
     <td class="tg-fe66">13,8 %</td>
     <td class="tg-fe66">10,1 %</td>
     <td class="tg-fe66">14,0 %</td>
@@ -436,7 +439,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">33,5 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Despl. feina / estudis: 20&nbsp;&nbsp;&nbsp;minuts</td>
+    <td class="tg-1wig">Despl. feina / estudis: 20 minuts</td>
     <td class="tg-baqh">13,3 %</td>
     <td class="tg-baqh">13,1 %</td>
     <td class="tg-baqh">13,8 %</td>
@@ -444,7 +447,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">11,8 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Despl. feina / estudis:&nbsp;&nbsp;&nbsp;de 21 a 29 minuts</td>
+    <td class="tg-sda9">Despl. feina / estudis: de 21 a 29 minuts</td>
     <td class="tg-fe66">4,8 %</td>
     <td class="tg-fe66">7,5 %</td>
     <td class="tg-fe66">1,3 %</td>
@@ -452,7 +455,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">15,4 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Despl. feina / estudis: 30&nbsp;&nbsp;&nbsp;minuts</td>
+    <td class="tg-1wig">Despl. feina / estudis: 30 minuts</td>
     <td class="tg-baqh">21,2 %</td>
     <td class="tg-baqh">28,0 %</td>
     <td class="tg-baqh">14,0 %</td>
@@ -460,7 +463,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">19,0 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Despl. feina / estudis:&nbsp;&nbsp;&nbsp;de 31 a 44 minuts</td>
+    <td class="tg-sda9">Despl. feina / estudis: de 31 a 44 minuts</td>
     <td class="tg-fe66">11,2 %</td>
     <td class="tg-fe66">8,2 %</td>
     <td class="tg-fe66">15,4 %</td>
@@ -468,7 +471,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">13,9 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Despl. feina / estudis: de 45&nbsp;&nbsp;&nbsp;a 59 minuts</td>
+    <td class="tg-1wig">Despl. feina / estudis: de 45 a 59 minuts</td>
     <td class="tg-baqh">9,5 %</td>
     <td class="tg-baqh">15,1 %</td>
     <td class="tg-baqh">4,9 %</td>
@@ -476,7 +479,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">0,0 %</td>
   </tr>
   <tr>
-    <td class="tg-sda9">Despl. feina / estudis:&nbsp;&nbsp;&nbsp;60 o més minuts</td>
+    <td class="tg-sda9">Despl. feina / estudis: 60 o més minuts</td>
     <td class="tg-fe66">13,4 %</td>
     <td class="tg-fe66">9,5 %</td>
     <td class="tg-fe66">19,4 %</td>
@@ -484,7 +487,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-fe66">0,0 %</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Despl. feina / estudis: no ho&nbsp;&nbsp;&nbsp;sap / no contesta</td>
+    <td class="tg-1wig">Despl. feina / estudis: no ho sap / no contesta</td>
     <td class="tg-baqh">12,7 %</td>
     <td class="tg-baqh">8,6 %</td>
     <td class="tg-baqh">17,2 %</td>
@@ -492,7 +495,7 @@ Pel que fa al temps de trajecte, són considerablement menors al CT i l'AMG, dif
     <td class="tg-baqh">6,4 %</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="6">Font:&nbsp;&nbsp;&nbsp;elaboració pròpia a partir de dades provinents de l’enquesta del projecte «La&nbsp;&nbsp;&nbsp;sostenibilitat financera i ambiental del sistema de mobilitat en les grans&nbsp;&nbsp;&nbsp;àrees urbanes de Catalunya després de la COVID-19» (2020PANDE00058).</td>
+    <td class="tg-baqh" colspan="6">Font:&nbsp;&nbsp;&nbsp;elaboració pròpia a partir de dades provinents de l’enquesta del projecte «La&nbsp;&nbsp;&nbsp;sostenibilitat financera i ambiental del sistema de mobilitat en les grans&nbsp;&nbsp;&nbsp;àrees urbanes de Catalunya després de la COVID-19» (2020PANDE00058).</td>
   </tr>
 </tbody>
 </table>
@@ -507,7 +510,7 @@ L'expansió de la pandèmia durant el març del 2020 va suposar una completa alt
 
 El volum de desplaçaments es va reduir sensiblement a causa de les restriccions implementades (Hale et al., [-@hale2021government]), però també per la percepció de risc de contagi (Nouvellet et al., [-@nouvellet2021reduction]). No obstant, hi ha diversos elements que fan que ni les restriccions ni la por al contagi afectessin la població de manera homogènia.
 
-##### Segons la motivació dels desplaçaments
+#### Segons la motivació dels desplaçaments
 
 Per a aquesta anàlisi s'han identificat quatre tipus de desplaçaments segons la motivació: treball o estudis; compres quotidianes; gestions, activitats personals o d'oci, i trobades amb amics i familiars. Tal com posa en relleu el gràfic \@ref(fig:fig9c1), el descens dels desplaçaments varia ostensiblement en funció de la motivació.
 
@@ -519,7 +522,7 @@ La mobilitat lligada a la resta de motivacions va patir una reducció més evide
 knitr::include_graphics("fig_por_cap/Cap.9/fig1.png")
 ```
 
-##### Segons el territori
+#### Segons el territori
 
 Tal com s'aprecia en el gràfic \@ref(fig:fig9c2), en tots els territoris es reprodueixen els mateixos patrons de reducció de la mobilitat en funció de la motivació del desplaçament, si bé és cert que hi ha certes diferències entre les àrees metropolitanes. La disminució de la mobilitat tendeix a ser superior tant a la ciutat de Barcelona com en els municipis pertanyents a la seva àrea metropolitana. En canvi, l'AMG és l'àmbit territorial en el qual la reducció és menor per a totes les motivacions de desplaçament. La densitat de població sembla, per tant, que va jugar un paper clau en la reducció de la mobilitat, que també podria estar condicionada per incidències divergents pel que fa al nombre de casos positius.
 
@@ -529,7 +532,7 @@ knitr::include_graphics("fig_por_cap/Cap.9/fig2.png")
 
 La ciutat de Barcelona és l'àmbit que presenta la major reducció dels desplaçaments pel que fa a la mobilitat per raons de feina o estudis (31 %). En canvi, les reduccions dels desplaçaments per fer compres quotidianes (23 %) i per fer trobades amb familiars i amics (56 %) van ser superiors a l'AMB, excloent-hi Barcelona. Pel que fa al CT, la reducció de la mobilitat per raons de feina o estudis va ser similar a la de l'AMG (18 % i 16 %, respectivament), mentre que el descens en relació amb les compres quotidianes (23 %) és comparable al de l'AMB. Quant a la resta de motivacions de desplaçament (gestions i oci, i trobades amb amics i familiars), es troba en paràmetres de reducció superiors als de Girona, però inferiors als de Barcelona i la seva àrea metropolitana.
 
-##### Segons l'edat i el gènere
+#### Segons l'edat i el gènere
 
 Si s'analitza el descens de la mobilitat en funció del gènere i l'edat, també emergeixen diferències notables. Les dones van reduir la seva mobilitat de manera més intensiva, amb l'excepció dels desplaçaments per raons de treball o estudis. En aquest darrer cas, la disminució és dos punts inferior a la dels homes (25 % per 27 %). Que la mobilitat femenina s'hagi reduït més és coherent amb el treball de Sánchez-Teruel et al. [-@sanchez2022gender], que conclou que la por al contagi de la COVID-19 ha estat superior en les dones. D'altra banda, cal destacar que la mobilitat no ocupacional ha estat la més afectada per les diferents restriccions de mobilitat, i aquest tipus de desplaçaments són els que habitualment fan més les dones.
 
@@ -539,7 +542,7 @@ L'anàlisi per grups d'edat mostra com la població més jove, d'entre 16 i 35 a
 knitr::include_graphics("fig_por_cap/Cap.9/fig3.png")
 ```
 
-##### Segons la renda
+#### Segons la renda
 
 Tot i que tots els nivells de renda han reduït la mobilitat, les desigualtats socials són un factor clau que explica les divergències en els canvis dels patrons de mobilitat. En el gràfic \@ref(fig:fig9c4) es pot constatar com el descens de la mobilitat ocupacional es troba directament lligat al nivell de renda. Fins als 5.000 € d'ingressos familiars, la disminució de la mobilitat per aquest motiu segueix una tendència creixent, i passa del 3 % del grup amb ingressos inferiors als 1.000 € al 29 % del grup amb rendes d'entre 4.001 € i 5.000 €. Els ingressos inferiors acostumen a estar relacionats amb ocupacions en què el teletreball no s'ha pogut implementar amb la mateixa intensitat que a la resta. Això implica que en un context en què la reducció dels desplaçaments era una mesura de salut pública necessària, els segments de població menys afavorida es van trobar més exposats (Baena-Diéz et al., [-@baena2020impact]; Checa et al., [-@checa2020those]; Qi et al., [-@qi2021impacts]). En contraposició, la reducció de les compres quotidianes va ser superior per als segments de població amb menor nivell de renda. Tal com s'aprecia en el gràfic, mentre que la reducció de la mobilitat per a les rendes inferiors a 1.000 € va ser del 30 %, entre els 4.001 € i els 5.000 € va minvar un 17 %.
 
@@ -553,7 +556,7 @@ knitr::include_graphics("fig_por_cap/Cap.9/fig4.png")
 
 Tal com s'ha posat de manifest en la introducció, el descens de la mobilitat no ha afectat per igual tots els modes de transport. El transport públic ha estat amb diferència el més penalitzat (Bagdatli i Ipek, [-@bagdatli2022transport]), mentre que els desplaçaments en els modes actius, tot i patir el descens de la mobilitat global, han vist esmorteïda la caiguda del seu ús pel transvassament d'usuaris del transport públic (Bagdatli i Ipek, [-@bagdatli2022transport]; Eisenmann et al., [-@eisenmann2021transport]; Wang i Noland, [-@wang2021bikeshare]). Tot seguit s'analitzen les divergències per modes de transport, i també els factors que les expliquen.
 
-##### Canvis en les preferències de modes de transport
+#### Canvis en les preferències de modes de transport
 
 El gràfic \@ref(fig:fig9c5) posa de manifest que la població de les tres principals àrees metropolitanes de Catalunya pràcticament no va modificar les seves preferències d'utilització de modes (caminar, bicicleta o patinet, moto i cotxe), amb independència de la motivació del desplaçament. Solament es constata una reducció d'un punt percentual del caminar per a les compres quotidianes i, en el cas del cotxe, un guany d'un punt percentual per a les compres quotidianes i un descens de dos punts per als desplaçaments per dur a terme gestions i activitats personals o d'oci.
 
@@ -563,7 +566,7 @@ knitr::include_graphics("fig_por_cap/Cap.9/fig5.png")
 
 El transport públic, en canvi, va patir un descens del 38 % al 32 % com a mode preferent en els desplaçaments ocupacionals, i del 41 % al 35 % en els desplaçaments per dur a terme gestions, activitats personals o d'oci. Aquests resultats confirmen que el transport públic s'ha percebut com un punt d'aglomeració de persones i, en conseqüència, un potencial focus d'infecció (Jenelius i Cebecauer, [-@jenelius2020impacts]; Orro et al., [-@orro2020impact]). En aquest sentit, respecte a la mobilitat per raons de feina o estudis, es pot atribuir l'evolució dels indicadors a simplificacions de les cadenes modals, en les quals es pot haver deixat de fer servir el transport públic, ja que a la pràctica la seva substitució per altres modes de transport aparentment ha estat força limitada. En el cas de la reducció del seu ús en la mobilitat per dur a terme gestions i activitats personals o d'oci, el canvi aniria més lligat a una reducció del nombre de desplaçaments.
 
-##### Canvis en les preferències de modes de transport per territoris
+#### Canvis en les preferències de modes de transport per territoris
 
 El gràfic \@ref(fig:fig9c6) mostra l'evolució de l'ús dels modes de transport, abans i durant la pandèmia, a cadascun dels territoris. La primera conclusió que s'extreu dels tres gràfics és que, d'una banda, a totes les àrees metropolitanes es repeteix el mateix patró de disminució de la demanda de transport públic per als desplaçaments per motiu de feina o estudis i per a gestions, activitats personals o d'oci.
 
