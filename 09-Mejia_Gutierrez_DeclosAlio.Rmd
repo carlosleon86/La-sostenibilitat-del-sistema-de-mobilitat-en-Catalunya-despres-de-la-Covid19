@@ -1,4 +1,4 @@
-# Canvis en els patrons de mobilitat quotidiana a Catalunya durant la pandèmia de la COVID-19.
+# Canvis en els patrons de mobilitat a Catalunya durant la COVID-19: Evidències de les àrees metropolitanes de Barcelona, Girona i Tarragona
 
 ###### Verónica Mejía *(Universitat Rovira i Virgili)* {-}
 ###### Aarón Gutiérrez *(Universitat Rovira i Virgili)* {-}
