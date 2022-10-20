@@ -1,5 +1,5 @@
 --- 
-title: "Els impactes de la Covid-19 en la Mobilitat i les seves conseqüències socials i econòmiques: Una revisió acadèmica internacional després de 2 anys de pandèmia"
+title: "Els impactes de la Covid-19 en la Mobilitat i les seves conseqüències socials i econòmiques: Una revisió acadèmica internacional després de 2 anys de pandèmia^[Aquest llibre ha estat finançat amb els recursos de la Secretaria d'Universitats i Recerca del Departament d'Empresa i Coneixement de la Generalitat de Catalunya (2020 PANDE 00058), gestionats mitjançant l'Agència de Gestió d'Ajuts Universitaris i de Recerca - AGAUR.]"
 author: "Daniel Albalate (Editor)"
 date: "Oct-2022"
 site: bookdown::bookdown_site
