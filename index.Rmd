@@ -14,11 +14,11 @@ description: "Aquest projecte pretén entendre les causes i determinants dels ca
 
 # Benvinguts {-}
 
-<a href=""><img src="Portada_libro_digital.png" width="250" height="328" align="right" alt="Cover image" /></a>
+<a href=""><img src="Portada_libro_digital.png" width="300" height="400" align="right" alt="Cover image" /></a>
 
 Aquesta monografia pretén aportar dues contribucions a la literatura. En primer lloc, procura aglutinar i revisar la literatura científica que ha tractat els efectes de la pandèmia sobre diferents aspectes de la mobilitat. L’objectiu no és altre que sintetitzar el coneixement que ha assolit la comunitat científica sobre les qüestions relatives a la mobilitat durant la pandèmia i el període posterior. Es tracta, doncs, no només de conèixer els impactes a curt termini, sinó també d’abordar els canvis estructurals amb caràcter permanent que puguin afectar la manera com ens movem i com gestionem la mobilitat a les grans ciutats. 
 
-En segon lloc, en aquesta obra també s’inclouen els primers resultats d’una enquesta elaborada a més de 8.000 residents de les àrees urbanes de Barcelona, Girona i el Camp de Tarragona sobre la seva mobilitat en el context de la pandèmia i de la postpandèmia. Aquesta primera anàlisi de les dades de l’enquesta ens ajuda a entendre millor els impactes de la pandèmia, sobre la mobilitat a les grans àrees urbanes de Catalunya, a curt i llarg termini.
+En segon lloc, en aquesta obra també s’inclouen els primers resultats d’una enquesta elaborada a més de 8.000 residents de les àrees urbanes de Barcelona, Girona i el Camp de Tarragona sobre la seva mobilitat en el context de la pandèmia i de la postpandèmia. Aquesta primera anàlisi de les dades de l’enquesta ens ajuda a entendre millor els impactes de la pandèmia, sobre la mobilitat a les grans àrees urbanes de Catalunya, a curt i llarg termini.^[Foto de portada de llibre de Nenad Radojčić. Llicència Unsplash]
 
 
 
